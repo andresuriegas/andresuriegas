@@ -3,9 +3,9 @@
 
 I'm a front-end developer and aspiring UX/UI designer based in Sweden.
 
-Back in October 2020, my learning journey started. As almost all of us, front-end developers, I started with HTML and CSS. Since then, I moved to JavaScript, a little bit of React and Redux.
+Back in October 2020, my learning journey started. As most front-end developers I started with HTML and CSS. Since then, I moved to JavaScript, a little bit of React and Redux.
 
-I'm passionate about building highly polished user experiences and I love to be part of the whole development process; From designing and building high-res prototypes to programming and deploying compelling online experiences.
+I'm passionate about building highly polished user experiences and I love to be part of the whole development process; from designing and building high-res prototypes to programming and deploying compelling online experiences.
 
 In summary:
 
@@ -16,7 +16,7 @@ const andresuriegas = {
   age: 28,
   background: "Automotive Engineer",
   passions: ["Front-end Development", "UX/UI", "Travel Photography"],
-  tools: [HTML, CSS, JavaScript React, Adobe_XD, Figma],
+  tools: ["HTML", "CSS", "JavaScript", "React", "Adobe_XD"],
   hobbies: ["Climbing & Bouldering", "Video Games", "Movies", "Travel"] 
 }
 ```
