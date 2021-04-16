@@ -24,7 +24,7 @@ const andresuriegas = {
 
 ## Currently working on
 
-Doing round 2 of [#100DaysOfCode](https://www.100daysofcode.com/).
+Round 2 of [#100DaysOfCode](https://www.100daysofcode.com/).
 
 Also, I'm working on a website for a mock brewery called [The Blind Tiger and Co.](https://andresuriegas.github.io/blind_tiger/) My goal with this project is to reinforce HTML and CSS fundamentals, build a fully responsive website from the ground and add dynamic features with JavaScript.
 
