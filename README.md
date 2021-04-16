@@ -9,14 +9,14 @@ I'm passionate about building hihly-polished user experiences, and I love to be 
 
 In summary:
 
-```
+```javascript
 const andresuriegas = {
   firstName: "Andrés",
   lastName: "Contreras Uriegas",
   age: 28,
   background: "Automotive Engineer",
   passions: ["Front-end Development", "UX/UI", "Travel Photography"],
-  tools: [HTML, CSS, JavaScript React, Adobe XD, Figma],
+  tools: [HTML, CSS, JavaScript React, Adobe_XD, Figma],
   hobbies: ["Climbing & Bouldering", "Video Games", "Movies", "Travel"] 
 }
 ```
